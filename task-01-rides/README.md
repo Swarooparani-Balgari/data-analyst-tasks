@@ -41,5 +41,3 @@ The dataset contains
 - TASK 1.py - Python analysis
 - TASK 1.pbix - Power BI Dashboard
 - TASK 1 - Screenshot.png - Screenshot of Dashboard
-
-![Dashboard](TASK1-Screenshot.png)
