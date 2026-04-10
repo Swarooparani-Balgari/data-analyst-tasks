@@ -36,4 +36,10 @@ The dataset contains
 - On the 4th April 2026 had the highest revenue
 
 ## Files Included
-- 
+- TASK 1.xlsx - Dataset, Pivot Tables & Charts
+- TASK 1.sql - SQL queries
+- TASK 1.py - Python analysis
+- TASK 1.pbix - Power BI Dashboard
+- TASK 1 - Screenshot.png - Screenshot of Dashboard
+
+![Dashboard]:(TASK 1 - Screenshot.png)
