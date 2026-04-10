@@ -42,4 +42,4 @@ The dataset contains
 - TASK 1.pbix - Power BI Dashboard
 - TASK 1 - Screenshot.png - Screenshot of Dashboard
 
-[Dashboard](TASK 1 - Screenshot.png)
+![Dashboard](Screenshot.png)
