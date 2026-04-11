@@ -37,4 +37,10 @@ The dataset contains food delivery information including:
 - On the 9th April 2026, had the highest revenue amongst all other days
 
 ## Files Included
-- 
+- TASK 2.xlsx - Dataset, Pivot tables and charts
+- TASK 2.sql - SQL Queries
+- TASK 2.py - Python analysis
+- TASK 2. pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
