@@ -37,4 +37,10 @@ An e-commerce electronics store wants to analyze orders to understand top-produc
 - Overall, Discounts has reduced the revenue, so it is recommended that first improve the quantity and then it is better to give discounts to improve their business growth.
 
 ## Files Included
-- 
+- TASK 3.xlsx - Dataset and Pivot tables & charts
+- TASK 3.sql - SQL Queries
+- TASK 3.py - Python analysis
+- TASK 3.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
