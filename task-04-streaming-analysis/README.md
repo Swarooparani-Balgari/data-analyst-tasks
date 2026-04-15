@@ -34,4 +34,10 @@ A subscription-based streaming platform wants to analyze user activity to unders
 - Improving Premium & Standard subscriptionTypes revenue is the retention strategy recommendation for business growth.
 
 ## Files Included
-- 
+- TASK 4.xlsx - Dataset, Pivot tables & charts
+- TASK 4.sql - SQL Queries
+- TASK 4.py - Python analysis
+- TASK 4.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
