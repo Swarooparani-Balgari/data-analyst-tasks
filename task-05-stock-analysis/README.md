@@ -37,4 +37,10 @@ A warehouse management team wants to analyze Over-stocked products, Under-stocke
 - WH1 WareHouse stock quantity has to be increased to improve the business faster
 
 ## Files Included
-- 
+- TASK 5.xlsx - Dataset, Pivot tables & Charts
+- TASK 5.sql - SQL Queries
+- TASK 5.py - Python Analysis
+- TASK 5.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
