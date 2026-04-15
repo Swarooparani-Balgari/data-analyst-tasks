@@ -34,7 +34,7 @@ A warehouse management team wants to analyze Over-stocked products, Under-stocke
 - Mouse has the highest stock quantity amongst all products
 - Mouse is the top-performing product
 - Electronics has dominated the other category StockTurnover
-- WH1 WareHouse quantity has to be increased to improve the business faster
+- WH1 WareHouse stock quantity has to be increased to improve the business faster
 
 ## Files Included
 - 
