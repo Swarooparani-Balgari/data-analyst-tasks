@@ -40,5 +40,10 @@ If I'm working with a HR team. They want to understand:
 - Attrition is higher in IT and Sales, so the company can consider reviewing salaries, especially for lower experience employees, along with improving career growth opportunities and work conditions
 
 ## Files Included
-- 
+- TASK 6.xlsx - Dataset, Pivot tables and charts
+- TASK 6.sql - SQL Queries
+- TASK 6.py - Python analysis
+- TASK 6.pbix - Power BI Dashboard
+
+![Dashboard](Screenshot.png)
   
