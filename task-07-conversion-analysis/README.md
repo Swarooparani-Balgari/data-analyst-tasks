@@ -1,7 +1,7 @@
 # Website Funnel & Coversion Analysis
 
 ## Objective
-**Scenario** : 
+**Scenario** -
 Analyzing data for an e-commerce website. The marketing team wants to understand:
 - Where users drop-off in the funnel
 - Which trafficsource performs best
