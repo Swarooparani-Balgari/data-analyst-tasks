@@ -13,6 +13,8 @@ Each task focuses on solving a business problem and extracting insights from dat
 ## Tasks Included
 - task-01-rides
 - task-02-food-orders
-- task-03-electronics-analysis
+- task-03-electronics analysis
 - task-04-streaming-analysis
 - task-05-stock-analysis
+- task-06-HR-Attrition-Analysis
+- task-07-conversion-analysis
