@@ -1,7 +1,7 @@
 ## Data Analyst Tasks
 
 ## Objective
-This repository contains data analysis exercises completed using Excel, SQL, Python and Power BI
+This repository contains different kind of data analysis exercises completed using Excel, SQL, Python and Power BI
 Each task focuses on solving a business problem and extracting insights from data
 
 ## Tools Used
@@ -18,3 +18,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-05-stock-analysis
 - task-06-HR-Attrition-Analysis
 - task-07-conversion-analysis
+- task-08-loan-risk-analysis
