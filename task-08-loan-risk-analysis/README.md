@@ -43,5 +43,10 @@
 
 ## Files Included
 - TASK 8.xlsx - Dataset, Pivot tables and charts
-- 
+- TASK 8.sql - SQL Queries
+- TASK 8.py - Python analysis
+- TASK 8.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
   
