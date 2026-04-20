@@ -47,3 +47,8 @@
 ## Files Included
 - TASK 9.xlsx - Dataset, Pivot tables and charts
 - TASK 9.sql - SQL Queries
+- TASK 9.py - Python Analysis
+- TASK 9.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Screenshot](Screenshot.png)
