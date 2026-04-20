@@ -51,3 +51,4 @@
 - TASK 9.pbix - Power BI Dashboard
 - Screenshot.png - Screenshot of Dashboard
 
+![Screenshot](Screenshot.png)
