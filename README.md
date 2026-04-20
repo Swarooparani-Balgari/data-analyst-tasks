@@ -19,3 +19,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-06-HR-Attrition-Analysis
 - task-07-conversion-analysis
 - task-08-loan-risk-analysis
+- task-09-customer-support-ticket-analysis
