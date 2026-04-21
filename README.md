@@ -20,3 +20,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-07-conversion-analysis
 - task-08-loan-risk-analysis
 - task-09-customer-support-ticket-analysis
+- task-10-food-delivery-analysis
