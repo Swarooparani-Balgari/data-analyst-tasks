@@ -43,6 +43,12 @@
 - The business has to introduce the policy called "Cancellation fee"
 
 ## Files Included
-- 
+- TASK 11.xlsx - Dataset, Pivot tables and charts
+- TASK 11.sql - SQL Queries
+- TASK 11.py - Python Analysis
+- TASK 11.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of dashboard
+
+![Dashboard](Screenshot.png)
 
 
