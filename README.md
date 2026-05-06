@@ -22,3 +22,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-09-customer-support-ticket-analysis
 - task-10-food-delivery-analysis
 - task-11-hotel-booking-analysis
+- task-12-Subscription-analysis
