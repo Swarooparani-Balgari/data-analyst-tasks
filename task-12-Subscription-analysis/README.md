@@ -47,4 +47,10 @@
 - The business has to publish more about the features and benefits of making a subscription
 
 ## Files Included
-- 
+- TASK 12.xlsx - Dataset, Pivot tables and Charts
+- TASK 12.sql - SQL Queries
+- TASK 12.py - Python Analysis
+- TASK 12.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of dashboard
+
+![Dashboard](Screenshot.png)
