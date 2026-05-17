@@ -1,7 +1,7 @@
 # Healthcare Patient Wait Time & Service Efficiency Analysis
 
 ## Objective
-**Scenario - ** Analyzing operations for a hospital (like Apollo Hospitals).Management is concerned about:
+**Scenario - ** Analyzing operations for a hospital (like Apollo Hospitals). Management is concerned about:
 - Long patient wait times
 - Uneven doctor workload
 - Poor patient experience
@@ -45,5 +45,10 @@
 - Doctor D2 has to increase their number of visting the patients
 
 ## Files Included
-- 
-- 
+- TASK 13.xlsx - Dataset, Pivot tables and charts
+- TASK 13.sql - SQL Queries
+- TASK 13.py - Python analysis
+- TASK 13.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of dashboard
+
+![Dashboard](Screenshot.png)
