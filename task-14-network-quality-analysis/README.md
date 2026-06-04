@@ -44,4 +44,10 @@ The company is losing subscribers because of:
 - Overall, I strongly recommend the company has to invest first on network infrastructure than retention offers after that it can focus on the retention rate
 
 ## Files Included
-- 
+- TASK 14.xlsx - Dataset and Pivot tables
+- TASK 14.sql - SQL Queries
+- TASK 14.py - Python Analysis
+- TASK 14.pbix - Power BI Dashboard
+- Screenshot.png - Screenshot of Dashboard
+
+![Dashboard](Screenshot.png)
