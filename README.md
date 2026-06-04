@@ -23,3 +23,5 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-10-food-delivery-analysis
 - task-11-hotel-booking-analysis
 - task-12-Subscription-analysis
+- task-13-healthcare-analysis
+- task-14-network-quality-analysis
