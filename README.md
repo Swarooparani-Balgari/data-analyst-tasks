@@ -1,4 +1,4 @@
-## Data Analyst Tasks
+# Data Analyst Tasks
 
 ## Objective
 This repository contains different kind of data analysis exercises completed using Excel, SQL, Python and Power BI
