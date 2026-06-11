@@ -25,3 +25,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-12-Subscription-analysis
 - task-13-healthcare-analysis
 - task-14-network-quality-analysis
+- task-15-ecommerce-analysis
