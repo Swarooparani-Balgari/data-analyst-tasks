@@ -27,3 +27,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-14-network-quality-analysis
 - task-15-ecommerce-analysis
 - task-16-gym-visits-analysis
+-task-17-airline-analysis
