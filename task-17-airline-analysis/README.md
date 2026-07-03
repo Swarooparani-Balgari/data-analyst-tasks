@@ -50,5 +50,5 @@ The airline is dealing with:
  - TASK 17.pbix - Power BI Dashboard
  - Screenshot.png - Screenshot of dashboard
 
-[Dashboard](Screenshot.png)
+![Dashboard](Screenshot.png)
    
