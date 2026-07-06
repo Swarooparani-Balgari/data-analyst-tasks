@@ -53,4 +53,4 @@ The company is struggling with :
 - TASK 16.pbix - Power BI Dashboard
 - Screenshot.png - Screenshot of dashboard
 
-[Dashboard](Screenshot.png)
+![Dashboard](Screenshot.png)
