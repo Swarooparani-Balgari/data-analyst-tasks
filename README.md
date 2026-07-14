@@ -28,3 +28,4 @@ Each task focuses on solving a business problem and extracting insights from dat
 - task-15-ecommerce-analysis
 - task-16-gym-visits-analysis
 - task-17-airline-analysis
+- task-18-online-education-analysis
